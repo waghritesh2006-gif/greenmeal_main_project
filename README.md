@@ -2,11 +2,11 @@
 
 **User Login Credentials:**  
 - **User Account:**  
-  - Email: `harshitnikam182005@gmail.com`  
+  - Email: `waghritesh2006@gmail.com`  
   - Password: `11223344`  
 
 - **NGO Account:**  
-  - Email: `maneriteshh@gmail.com`  
+  - Email: `private.sohamrane@gmail.com`  
   - Password: `11223344`
   - 
 **Video Demo:** [Watch GreenMeal in Action](https://youtu.be/QhI5Iexg86M)
